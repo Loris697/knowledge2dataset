@@ -1,0 +1,299 @@
+ Sì, ecco una triple composta:
+
+Oggetto1 = 1984
+Relazione = Autore
+Risposta1 = Orwell
+Risposta2 = Huxley
+Risposta3 = Hemingway
+Risposta4 = Bradbury	Australia Meridionale
+ Domanda: Quale paese ha una relazione diplomatica con l'Albania?
+A) Grecia
+B) Francia
+C) Canada
+D) Brasile	Francia
+ Domanda: Quale paese ha una relazione diplomatica con Angola?
+A) Australia
+B) Canada
+C) Italia
+D) Regno Unito	Australia
+ Sì, ecco un altro esempio:
+
+Oggetto1 = 1984 risposta1= George Orwell risposta2= Aldous Huxley risposta3= Ray Bradbury risposta4= Ernest Hemingway
+Domanda: Chi ha scritto il libro '1984'?
+A) George Orwell
+B) Aldous Huxley
+C) Ray Bradbury
+D) Ernest Hemingway	Birmania
+ Domanda: Quale paese è conosciuto per la sua bellezza naturale e la fauna selvatica?
+A) Grecia
+B) Danimarca
+C) Austria
+D) Australia Meridionale	Australia
+ Sì, ecco una triple composta:
+
+Oggetto1 = 1984
+Relazione = Autore
+Risposta1 = Orwell
+Risposta2 = Huxley
+Risposta3 = Hemingway
+Risposta4 = Bradbury	Australia Meridionale
+ Domanda: Quale paese ha una relazione diplomatica con l'Albania?
+A) Grecia
+B) Francia
+C) Canada
+D) Brasile	Francia
+ Domanda: Quale paese ha una relazione diplomatica con Angola?
+A) Australia
+B) Canada
+C) Italia
+D) Regno Unito	Australia
+ Sì, ecco un altro esempio:
+
+Oggetto1 = 1984 risposta1= George Orwell risposta2= Aldous Huxley risposta3= Ray Bradbury risposta4= Ernest Hemingway
+Domanda: Chi ha scritto il libro '1984'?
+A) George Orwell
+B) Aldous Huxley
+C) Ray Bradbury
+D) Ernest Hemingway	Birmania
+ Domanda: Quale paese è conosciuto per la sua bellezza naturale e la fauna selvatica?
+A) Grecia
+B) Danimarca
+C) Austria
+D) Australia Meridionale	Australia
+ Domanda: Quale stato tedesco confina con la Baviera?
+A) Baden-Württemberg
+B) Baviera
+C) Baden-Baden
+D) Baviera	Baviera
+ Domanda: Quale paese ha una relazione diplomatica con Bangladesh?
+A) Cuba
+B) Israele
+C) India
+D) Bangladesh	Cuba
+ Domanda: Quale paese ha una relazione diplomatica con Belgio?
+A) Germania
+B) Brasile
+C) Bangladesh
+D) Canada	Canada
+ Domanda: Quale paese è stato la Repubblica Socialista Federale di Jugoslavia?
+A) Grecia
+B) Australia
+C) Germania
+D) Jugoslavia	Repubblica Socialista Federale di Jugoslavia
+ Domanda: Quale è la lingua ufficiale del Pakistan?
+A) Urdu
+B) Punjabi
+C) Pashto
+D) Hindi	tedesco
+ Domanda: Quale paese ha una relazione diplomatica con Bielorussia?
+A) Canada
+B) Messico
+C) Argentina
+D) Australia	Argentina
+ Domanda: Quale paese ha una relazione diplomatica con la Bielorussia?
+A) Canada
+B) Australia
+C) Cuba
+D) Messico	Cuba
+ Sì, ecco una triple composta da un oggetto, una relazione e quattro possibili risposte:
+
+Oggetto1 = Bielorussia relazione=relazione diplomatica risposta1= Australia risposta2 = Paesi Bassi risposta3 =  Messico risposta4 = Canada
+
+Domanda: Quale paese ha avuto una relazione diplomatica con la Bielorussia?
+A) Australia
+B) Paesi Bassi
+C) Messico
+D) Canada	Paesi Bassi
+ Domanda: Quale paese è noto per la sua produzione di bambù?	Italia
+ Domanda: Quale paese ha una relazione con il Brasile?
+A) Germania
+B) Taiwan
+C) Brasile
+D) Australia	Brasile
+ Domanda: Quale paese ha una relazione diplomatica con il Brasile?
+A) Uruguay
+B) Francia
+C) Repubblica Ceca
+D) Brasile	Repubblica Ceca
+ Domanda: Quale città gemella di Budapest?
+A) Berlino
+B) Bangkok
+C) Londra
+D) New York	Bangkok
+ Sì, ecco le triple composte da un oggetto, una relazione e quattro possibili risposte:
+
+Oggetto1 = Burkina Faso relazione=Paese risposta1= Grecia risposta2 = Serbia risposta3 =  Burkina Faso risposta4 = Australia
+
+Domanda: Quale paese ha una costa sull'Oceano Atlantico?	Burkina Faso
+ Sì, ecco una triple composta:
+
+Oggetto1 = California
+Relazione = Sottodivisioni amministrative
+Risposta1 = Russia
+Risposta2 = San Francisco
+Risposta3 = Germania
+Risposta4 = Francia	San Francisco
+ Sì, ecco una triple composta:
+
+Oggetto1 = Canada
+Relazione = relazione diplomatica
+Risposta1 = Stati Uniti d'America
+Risposta2 = Serbia
+Risposta3 = Namibia
+Risposta4 = Canada	Namibia
+ Domanda: Quale paese confina con la Cecoslovacchia?
+A) Canada
+B) Germania Est
+C) Francia
+D) Danimarca	Germania Est
+ Domanda: Quale paese ha sostituito la Cecoslovacchia nel 1993?
+A) Danimarca
+B) Slovacchia
+C) India
+D) Australia	Slovacchia
+ Domanda: Quale paese ha avuto una relazione diplomatica con il Cile?
+A) El Salvador
+B) Ucraina
+C) Canada
+D) Giappone	El Salvador
+ Domanda: Quale paese ha una relazione diplomatica con Taiwan?
+A) Russia
+B) Croazia
+C) Cina
+D) Taiwan	Croazia
+ Domanda: Quale paese ha una relazione diplomatica con la Cina?
+A) Nigeria
+B) Cina
+C) Russia
+D) Taiwan	Nigeria
+ Domanda: Quale paese ha una relazione diplomatica con la Corea del Nord?
+A) Stati Uniti
+B) Grecia
+C) Russia
+D) Vietnam	Vietnam
+ Domanda: Quale paese ha una relazione diplomatica con Costa Rica?
+A) India
+B) Turchia
+C) Uruguay
+D) Cina	Uruguay
+ Domanda: Quale paese ha una relazione diplomatica con la Croazia?
+A) Malaysia
+B) Russia
+C) Francia
+D) Messico	Messico
+ Domanda: Quale paese ha una relazione diplomatica con la Croazia?
+A) Russia
+B) Taiwan
+C) Francia
+D) Malaysia	Taiwan
+ Domanda: Quale paese ha una relazione diplomatica con Cuba?
+A) Danimarca
+B) Stati Uniti d'America
+C) Australia
+D) Germania	Germania
+ Domanda: Quale paese è la capitale della Danimarca?
+A) Stati Uniti d'America
+B) Germania
+C) Copenhagen
+D) Taiwan	Copenaghen
+ Sì, ecco una triple composta:
+
+Oggetto1 = Ecuador
+Relazione = confina con
+Risposta1 = Malaysia
+Risposta2 = Australia
+Risposta3 = Ucraina
+Risposta4 = Perù	Perù
+ Sì, ecco una triple composta:
+
+Oggetto1 = Emirati Arabi Uniti
+Relazione = continente
+Risposta1 = Asia
+Risposta2 = Stati Uniti d'America
+Risposta3 = Germania	Asia
+ Domanda: Quale paese ha una relazione diplomatica con Estonia?
+A) Australia
+B) Pakistan
+C) Cina
+D) Russia	Australia
+ Domanda: Quale paese ha una relazione diplomatica con Estonia?
+A) Pakistan
+B) Cina
+C) Messico
+D) Russia	Messico
+ Domanda: Quale paese confina con la Francia?
+A) Regno dei Paesi Bassi
+B) Russia
+C) Taiwan
+D) Danimarca	Regno dei Paesi Bassi
+ Domanda: Quale paese ha avuto una relazione diplomatica con la Francia?
+A) Italia
+B) Iraq
+C) Germania
+D) Cina	Iraq
+ Domanda: Quale paese ha una relazione diplomatica con la Francia?
+A) Cina
+B) Italia
+C) Germania
+D) Trinidad e Tobago	Trinidad e Tobago
+ Domanda: Chi è stato considerato essere uguale a Francisco?	Frank
+ Domanda: Quale paese ha avuto una relazione diplomatica con la Germania?
+A) Danimarca
+B) Francia
+C) Togo
+D) Germania	Togo
+ Domanda: Quale paese ha una relazione diplomatica con la Grecia?
+A) Uruguay
+B) Turchia
+C) Australia
+D) Grecia	Australia
+ Sì, ecco un altro esempio:
+
+Oggetto1 = 1960s risposta1= Guerra del Vietnam risposta2= Movimento dei diritti civili risposta3= Movimento femminista risposta4= Movimento anti-guerra
+Domanda: Quale evento ha avuto luogo durante gli anni '60?
+A) Guerra del Vietnam
+B) Movimento dei diritti civili
+C) Movimento femminista
+D) Movimento anti-guerra	Brasile
+ Domanda: Quale paese confina con il Messico?
+A) Guatemala
+B) Bangladesh
+C) Taiwan
+D) Giappone	Messico
+ Domanda: Quale città gemella di Houston è situata in Italia?
+A) Venezia
+B) Firenze
+C) Roma
+D) Milano	Lipsia
+ Domanda: Quale stato confina con l'Illinois?
+A) Iowa
+B) Germania
+C) Russia
+D) Taiwan	Iowa
+ Domanda: Quale paese ha una relazione diplomatica con Trinidad e Tobago?
+A) India
+B) Bangladesh
+C) Cina
+D) India	Trinidad e Tobago
+ Sì, ecco un altro esempio:
+
+Oggetto1 = 1969 risposta1= Apollo 11 risposta2= Neil Armstrong risposta3= Buzz Aldrin risposta4= Michael Collins
+Domanda: Chi è stato il primo uomo a camminare sulla luna?
+A) Neil Armstrong
+B) Buzz Aldrin
+C) Michael Collins
+D) Neil Armstrong e Buzz Aldrin	Cina
+ Domanda: Chi è considerato il padre della navigazione?
+A) Jean Lafitte
+B) Danimarca
+C) Messico
+D) Hans	Hans
+ A) Messico
+B) Danimarca
+C) Australia
+D) Johannesburg	Johannes
+ Domanda: Chi è considerato essere uguale a Jack?
+A) Taiwan
+B) Cina
+C) Germania
+D) Giappone	Jack
