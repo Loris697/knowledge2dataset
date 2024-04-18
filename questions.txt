@@ -1,299 +1,505 @@
- Sì, ecco una triple composta:
-
-Oggetto1 = 1984
-Relazione = Autore
-Risposta1 = Orwell
-Risposta2 = Huxley
-Risposta3 = Hemingway
-Risposta4 = Bradbury	Australia Meridionale
+ Domanda: In che città si trova Adelaide?
+A) Taiwan
+B) Australia Meridionale
+C) Mosca
+D) Messico	Correct:Australia Meridionale
  Domanda: Quale paese ha una relazione diplomatica con l'Albania?
 A) Grecia
 B) Francia
 C) Canada
-D) Brasile	Francia
- Domanda: Quale paese ha una relazione diplomatica con Angola?
+D) Brasile	Correct:Francia
+ Domanda: Quale paese ha una relazione diplomatica con l'Angola?
 A) Australia
 B) Canada
 C) Italia
-D) Regno Unito	Australia
- Sì, ecco un altro esempio:
-
-Oggetto1 = 1984 risposta1= George Orwell risposta2= Aldous Huxley risposta3= Ray Bradbury risposta4= Ernest Hemingway
-Domanda: Chi ha scritto il libro '1984'?
-A) George Orwell
-B) Aldous Huxley
-C) Ray Bradbury
-D) Ernest Hemingway	Birmania
- Domanda: Quale paese è conosciuto per la sua bellezza naturale e la fauna selvatica?
+D) Regno Unito	Correct:Australia
+ Domanda: Quali sono i rapporti diplomatici tra Australia e Cina?
+A) Indonesia
+B) Australia
+C) Birmania
+D) Georgia	Correct:Birmania
+ Domanda: Quale paese è l'Australia Meridionale?
 A) Grecia
 B) Danimarca
 C) Austria
-D) Australia Meridionale	Australia
- Sì, ecco una triple composta:
-
-Oggetto1 = 1984
-Relazione = Autore
-Risposta1 = Orwell
-Risposta2 = Huxley
-Risposta3 = Hemingway
-Risposta4 = Bradbury	Australia Meridionale
- Domanda: Quale paese ha una relazione diplomatica con l'Albania?
+D) Australia	Correct:Australia
+ Domanda: Quali stati confinano con Baden-Württemberg?
 A) Grecia
-B) Francia
-C) Canada
-D) Brasile	Francia
- Domanda: Quale paese ha una relazione diplomatica con Angola?
-A) Australia
-B) Canada
-C) Italia
-D) Regno Unito	Australia
- Sì, ecco un altro esempio:
-
-Oggetto1 = 1984 risposta1= George Orwell risposta2= Aldous Huxley risposta3= Ray Bradbury risposta4= Ernest Hemingway
-Domanda: Chi ha scritto il libro '1984'?
-A) George Orwell
-B) Aldous Huxley
-C) Ray Bradbury
-D) Ernest Hemingway	Birmania
- Domanda: Quale paese è conosciuto per la sua bellezza naturale e la fauna selvatica?
-A) Grecia
-B) Danimarca
-C) Austria
-D) Australia Meridionale	Australia
- Domanda: Quale stato tedesco confina con la Baviera?
-A) Baden-Württemberg
-B) Baviera
-C) Baden-Baden
-D) Baviera	Baviera
- Domanda: Quale paese ha una relazione diplomatica con Bangladesh?
+B) Italia
+C) Malaysia
+D) Baviera	Correct:Baviera
+ Domanda: Quale paese ha una relazione diplomatica con il Bangladesh?
 A) Cuba
 B) Israele
 C) India
-D) Bangladesh	Cuba
- Domanda: Quale paese ha una relazione diplomatica con Belgio?
+D) Bangladesh	Correct:Cuba
+ Domanda: Quale paese ha una relazione diplomatica con il Belgio?
 A) Germania
 B) Brasile
 C) Bangladesh
-D) Canada	Canada
- Domanda: Quale paese è stato la Repubblica Socialista Federale di Jugoslavia?
-A) Grecia
-B) Australia
-C) Germania
-D) Jugoslavia	Repubblica Socialista Federale di Jugoslavia
- Domanda: Quale è la lingua ufficiale del Pakistan?
-A) Urdu
-B) Punjabi
-C) Pashto
-D) Hindi	tedesco
- Domanda: Quale paese ha una relazione diplomatica con Bielorussia?
+D) Canada	Correct:Canada
+ Domanda: Quale paese è Belgrado?
+A) Repubblica Socialista Federale di Jugoslavia
+B) Grecia
+C) Australia
+D) Germania	Correct:Repubblica Socialista Federale di Jugoslavia
+ Domanda: Quale è la lingua ufficiale della Svizzera?
+A) Pakistan
+B) Francia
+C) Giappone
+D) tedesco	Correct:tedesco
+ Domanda: Quale paese ha una relazione diplomatica con la Bielorussia?
 A) Canada
 B) Messico
 C) Argentina
-D) Australia	Argentina
+D) Australia	Correct:Argentina
  Domanda: Quale paese ha una relazione diplomatica con la Bielorussia?
 A) Canada
 B) Australia
 C) Cuba
-D) Messico	Cuba
- Sì, ecco una triple composta da un oggetto, una relazione e quattro possibili risposte:
-
-Oggetto1 = Bielorussia relazione=relazione diplomatica risposta1= Australia risposta2 = Paesi Bassi risposta3 =  Messico risposta4 = Canada
-
-Domanda: Quale paese ha avuto una relazione diplomatica con la Bielorussia?
+D) Messico	Correct:Cuba
+ Domanda: Quale paese ha una relazione diplomatica con la Bielorussia?
 A) Australia
 B) Paesi Bassi
 C) Messico
-D) Canada	Paesi Bassi
- Domanda: Quale paese è noto per la sua produzione di bambù?	Italia
- Domanda: Quale paese ha una relazione con il Brasile?
+D) Canada	Correct:Paesi Bassi
+ Domanda: In che paese si trova Bologna?
+A) Malaysia
+B) Italia
+C) Australia
+D) Indonesia	Correct:Italia
+ Domanda: Quale paese è il più grande del Brasile?
 A) Germania
 B) Taiwan
 C) Brasile
-D) Australia	Brasile
+D) Australia	Correct:Brasile
  Domanda: Quale paese ha una relazione diplomatica con il Brasile?
-A) Uruguay
-B) Francia
-C) Repubblica Ceca
-D) Brasile	Repubblica Ceca
- Domanda: Quale città gemella di Budapest?
-A) Berlino
+A) Brasile
+B) Uruguay
+C) Francia
+D) Repubblica Ceca	Correct:Repubblica Ceca
+ Domanda: Quale città è gemellata con Budapest?
+A) Germania
 B) Bangkok
-C) Londra
-D) New York	Bangkok
- Sì, ecco le triple composte da un oggetto, una relazione e quattro possibili risposte:
-
-Oggetto1 = Burkina Faso relazione=Paese risposta1= Grecia risposta2 = Serbia risposta3 =  Burkina Faso risposta4 = Australia
-
-Domanda: Quale paese ha una costa sull'Oceano Atlantico?	Burkina Faso
- Sì, ecco una triple composta:
-
-Oggetto1 = California
-Relazione = Sottodivisioni amministrative
-Risposta1 = Russia
-Risposta2 = San Francisco
-Risposta3 = Germania
-Risposta4 = Francia	San Francisco
- Sì, ecco una triple composta:
-
-Oggetto1 = Canada
-Relazione = relazione diplomatica
-Risposta1 = Stati Uniti d'America
-Risposta2 = Serbia
-Risposta3 = Namibia
-Risposta4 = Canada	Namibia
- Domanda: Quale paese confina con la Cecoslovacchia?
+C) Regno Unito
+D) Stati Uniti d'America	Correct:Bangkok
+ Domanda: Quale è il paese più grande in Burkina Faso?
+A) Grecia
+B) Serbia
+C) Burkina Faso
+D) Australia	Correct:Burkina Faso
+ Domanda: Quali sono le cinque principali divisioni amministrative della California?
+A) Russia
+B) San Francisco
+C) Germania
+D) Francia	Correct:San Francisco
+ Domanda: Quale paese ha una relazione diplomatica con il Canada?
+A) Stati Uniti d'America
+B) Serbia
+C) Namibia
+D) Canada	Correct:Namibia
+ Obiettivo: Germania
+Relazione: confine con
 A) Canada
 B) Germania Est
 C) Francia
-D) Danimarca	Germania Est
- Domanda: Quale paese ha sostituito la Cecoslovacchia nel 1993?
+D) Danimarca	Correct:Germania Est
+ Domanda: Quale paese ha sostituito la Cecoslovacchia?
 A) Danimarca
 B) Slovacchia
 C) India
-D) Australia	Slovacchia
- Domanda: Quale paese ha avuto una relazione diplomatica con il Cile?
+D) Australia	Correct:Slovacchia
+ Domanda: Quale paese ha una relazione diplomatica con il Cile?
 A) El Salvador
 B) Ucraina
 C) Canada
-D) Giappone	El Salvador
- Domanda: Quale paese ha una relazione diplomatica con Taiwan?
-A) Russia
-B) Croazia
-C) Cina
-D) Taiwan	Croazia
- Domanda: Quale paese ha una relazione diplomatica con la Cina?
+D) Giappone	Correct:El Salvador
+ Domanda: Quali sono le principali relazioni diplomatiche della Cina?
+A) Taiwan
+B) Russia
+C) Croazia
+D) Cina	Correct:Croazia
+ Domanda: Quali sono le principali relazioni diplomatiche della Cina?
 A) Nigeria
 B) Cina
 C) Russia
-D) Taiwan	Nigeria
+D) Taiwan	Correct:Nigeria
  Domanda: Quale paese ha una relazione diplomatica con la Corea del Nord?
-A) Stati Uniti
+A) Stati Uniti d'America
 B) Grecia
 C) Russia
-D) Vietnam	Vietnam
+D) Vietnam	Correct:Vietnam
  Domanda: Quale paese ha una relazione diplomatica con Costa Rica?
 A) India
 B) Turchia
 C) Uruguay
-D) Cina	Uruguay
+D) Cina	Correct:Uruguay
  Domanda: Quale paese ha una relazione diplomatica con la Croazia?
 A) Malaysia
 B) Russia
 C) Francia
-D) Messico	Messico
+D) Messico	Correct:Messico
  Domanda: Quale paese ha una relazione diplomatica con la Croazia?
 A) Russia
 B) Taiwan
 C) Francia
-D) Malaysia	Taiwan
+D) Malaysia	Correct:Taiwan
  Domanda: Quale paese ha una relazione diplomatica con Cuba?
 A) Danimarca
 B) Stati Uniti d'America
 C) Australia
-D) Germania	Germania
- Domanda: Quale paese è la capitale della Danimarca?
+D) Germania	Correct:Germania
+ Domanda: Cosa è la capitale della Danimarca?
 A) Stati Uniti d'America
 B) Germania
-C) Copenhagen
-D) Taiwan	Copenaghen
- Sì, ecco una triple composta:
-
-Oggetto1 = Ecuador
-Relazione = confina con
-Risposta1 = Malaysia
-Risposta2 = Australia
-Risposta3 = Ucraina
-Risposta4 = Perù	Perù
- Sì, ecco una triple composta:
-
-Oggetto1 = Emirati Arabi Uniti
-Relazione = continente
-Risposta1 = Asia
-Risposta2 = Stati Uniti d'America
-Risposta3 = Germania	Asia
- Domanda: Quale paese ha una relazione diplomatica con Estonia?
+C) Copenaghen
+D) Taiwan	Correct:Copenaghen
+ Domanda: Quali paesi confina con l'Ecuador?
+A) Malaysia
+B) Australia
+C) Ucraina
+D) Perù	Correct:Perù
+ Domanda: In che continente si trovano gli Emirati Arabi Uniti?
+A) Taiwan
+B) Asia
+C) Stati Uniti d'America
+D) Germania	Correct:Asia
+ Domanda: Quale paese ha il più alto rapporto di dipendenti con il governo?
 A) Australia
 B) Pakistan
 C) Cina
-D) Russia	Australia
- Domanda: Quale paese ha una relazione diplomatica con Estonia?
+D) Russia	Correct:Australia
+ Domanda: Quale paese ha il più alto rapporto di dipendenti con il governo?
 A) Pakistan
 B) Cina
 C) Messico
-D) Russia	Messico
+D) Russia	Correct:Messico
  Domanda: Quale paese confina con la Francia?
 A) Regno dei Paesi Bassi
 B) Russia
 C) Taiwan
-D) Danimarca	Regno dei Paesi Bassi
+D) Danimarca	Correct:Regno dei Paesi Bassi
  Domanda: Quale paese ha avuto una relazione diplomatica con la Francia?
 A) Italia
 B) Iraq
 C) Germania
-D) Cina	Iraq
- Domanda: Quale paese ha una relazione diplomatica con la Francia?
+D) Cina	Correct:Iraq
+ Domanda: Quale paese ha avuto una relazione diplomatica con la Francia?
 A) Cina
 B) Italia
 C) Germania
-D) Trinidad e Tobago	Trinidad e Tobago
- Domanda: Chi è stato considerato essere uguale a Francisco?	Frank
- Domanda: Quale paese ha avuto una relazione diplomatica con la Germania?
+D) Trinidad e Tobago	Correct:Trinidad e Tobago
+ Chi è l'architetto di Francisco?
+A) Germania
+B) Frank
+C) Messico
+D) Uruguay	Correct:Frank
+ Domanda: Quale paese ha avuto una relazione diplomatica con la Germania durante la seconda guerra mondiale?
 A) Danimarca
 B) Francia
 C) Togo
-D) Germania	Togo
+D) Germania	Correct:Togo
  Domanda: Quale paese ha una relazione diplomatica con la Grecia?
 A) Uruguay
 B) Turchia
 C) Australia
-D) Grecia	Australia
- Sì, ecco un altro esempio:
-
-Oggetto1 = 1960s risposta1= Guerra del Vietnam risposta2= Movimento dei diritti civili risposta3= Movimento femminista risposta4= Movimento anti-guerra
-Domanda: Quale evento ha avuto luogo durante gli anni '60?
-A) Guerra del Vietnam
-B) Movimento dei diritti civili
-C) Movimento femminista
-D) Movimento anti-guerra	Brasile
- Domanda: Quale paese confina con il Messico?
-A) Guatemala
+D) Grecia	Correct:Australia
+ Domanda: Quale paese ha una relazione diplomatica con la Grecia?
+A) Turchia
+B) Grecia
+C) Uruguay
+D) Brasile	Correct:Brasile
+ Domanda: Quale paese confina con il Guatemala?
+A) Messico
 B) Bangladesh
 C) Taiwan
-D) Giappone	Messico
- Domanda: Quale città gemella di Houston è situata in Italia?
-A) Venezia
-B) Firenze
-C) Roma
-D) Milano	Lipsia
- Domanda: Quale stato confina con l'Illinois?
+D) Giappone	Correct:Messico
+ Domanda: Quale città è gemellata con Houston?
+A) Canada
+B) Italia
+C) Lipsia
+D) Spagna	Correct:Lipsia
+ Domanda: Quali stati confinano con l'Illinois?
 A) Iowa
 B) Germania
 C) Russia
-D) Taiwan	Iowa
- Domanda: Quale paese ha una relazione diplomatica con Trinidad e Tobago?
-A) India
+D) Taiwan	Correct:Iowa
+ Domanda: Quali sono le relazioni diplomatiche tra l'India e gli Stati Uniti?
+A) Trinidad e Tobago
 B) Bangladesh
 C) Cina
-D) India	Trinidad e Tobago
- Sì, ecco un altro esempio:
-
-Oggetto1 = 1969 risposta1= Apollo 11 risposta2= Neil Armstrong risposta3= Buzz Aldrin risposta4= Michael Collins
-Domanda: Chi è stato il primo uomo a camminare sulla luna?
-A) Neil Armstrong
-B) Buzz Aldrin
-C) Michael Collins
-D) Neil Armstrong e Buzz Aldrin	Cina
- Domanda: Chi è considerato il padre della navigazione?
-A) Jean Lafitte
+D) India	Correct:Trinidad e Tobago
+ Domanda: Quali sono le relazioni diplomatiche tra Israele e gli Stati Uniti?
+A) Danimarca
+B) Taiwan
+C) Bangladesh
+D) Cina	Correct:Cina
+ Chi è l'architetto di Jean?
+A) Australia
 B) Danimarca
 C) Messico
-D) Hans	Hans
- A) Messico
+D) Hans	Correct:Hans
+ Chi è l'architetto di Jean?
+A) Messico
 B) Danimarca
 C) Australia
-D) Johannesburg	Johannes
- Domanda: Chi è considerato essere uguale a Jack?
-A) Taiwan
-B) Cina
+D) Johannes	Correct:Johannes
+ Chi è l'architetto di Juan?
+A) Jack
+B) Taiwan
+C) Cina
+D) Germania	Correct:Jack
+ Domanda: Quale continente comprendeva la Jugoslavia?
+A) Bangladesh
+B) Russia
+C) Italia
+D) Europa	Correct:Europa
+ Domanda: Quale paese ha una relazione diplomatica con il Kazakistan?
+A) Australia
+B) Pakistan
+C) Russia
+D) Italia	Correct:Pakistan
+ Domanda: Quale paese ha avuto una relazione diplomatica con la Libia?
+A) Russia
+B) Australia
+C) Indonesia
+D) Canada	Correct:Russia
+ Domanda: Quale paese ha una relazione diplomatica con la Macedonia del Nord?
+A) Cina
+B) Bosnia ed Erzegovina
+C) Taiwan
+D) Germania	Correct:Bosnia ed Erzegovina
+ Domanda: Quali sono i rapporti diplomatici tra il Malaysia e la Cina?
+A) Finlandia
+B) Malaysia
+C) Serbia
+D) Italia	Correct:Finlandia
+ Domanda: Quali paesi confinano con il Mali?
+A) Costa d'Avorio
+B) Canada
 C) Germania
-D) Giappone	Jack
+D) Danimarca	Correct:Costa d'Avorio
+ Domanda: Quale paese ha avuto una relazione diplomatica con Mali?
+A) Australia
+B) Canada
+C) Danimarca
+D) Brasile	Correct:Canada
+ Domanda: Quale paese ha una relazione diplomatica con il Messico?
+A) Messico
+B) Iran
+C) Germania
+D) Stati Uniti d'America	Correct:Germania
+ Domanda: Quale paese ha una relazione diplomatica con la Moldavia?
+A) Australia
+B) Germania
+C) Bangladesh
+D) Brasile	Correct:Germania
+ Domanda: Quale paese ha una relazione diplomatica con la Norvegia?
+A) Russia
+B) Danimarca
+C) Bangladesh
+D) Repubblica Democratica del Congo	Correct:Repubblica Democratica del Congo
+ Domanda: Quale paese ha una relazione diplomatica con la Norvegia?
+A) Bangladesh
+B) Russia
+C) Danimarca
+D) Ucraina	Correct:Ucraina
+ Domanda: Quale città è gemellata con New Delhi?
+A) Messico
+B) Germania
+C) Spagna
+D) Chicago	Correct:Chicago
+ Domanda: Quali stati confina con l'Oklahoma?
+A) Malaysia
+B) Regno Unito
+C) Kansas
+D) Serbia	Correct:Kansas
+ Domanda: Quale paese ha una relazione diplomatica con il Pakistan?
+A) India
+B) Cina
+C) Cuba
+D) Pakistan	Correct:Cuba
+ Domanda: Quale paese ha una relazione diplomatica con il Pakistan?
+A) Pakistan
+B) India
+C) Cina
+D) Regno Unito	Correct:Regno Unito
+ Domanda: Quale paese confina con la Polonia?
+A) Australia
+B) Taiwan
+C) Cecoslovacchia
+D) Francia	Correct:Cecoslovacchia
+ Domanda: Quali paesi confina il Regno Unito?
+A) Germania
+B) Stati Uniti d'America
+C) Venezuela
+D) Grecia	Correct:Venezuela
+ Domanda: Quale stato ha sostituito la Repubblica Socialista Federale di Jugoslavia?
+A) Giappone
+B) Croazia
+C) Germania
+D) Danimarca	Correct:Croazia
+ Domanda: Quale città è gemellata con Riga?
+A) Tallinn
+B) Canada
+C) Indonesia
+D) Australia	Correct:Tallinn
+ Domanda: Quale città è gemellata con Rio de Janeiro?
+A) Taiwan
+B) Germania
+C) Danimarca
+D) Atene	Correct:Atene
+ Domanda: Quale città è gemellata con Sacramento?
+A) Manila
+B) Germania
+C) Messico
+D) Taiwan	Correct:Manila
+ Domanda: Quale città è gemellata con Saint Louis?
+A) Turchia
+B) Francia
+C) Germania
+D) Lione	Correct:Lione
+ Domanda: Quale è la città gemella di San Paolo?
+A) Lisbona
+B) Russia
+C) Grecia
+D) Messico	Correct:Lisbona
+ Domanda: Quale città è gemellata con San Pietroburgo?
+A) Johannesburg
+B) Germania
+C) Grecia
+D) Australia	Correct:Johannesburg
+ Domanda: Quale città è gemellata con San Pietroburgo?
+A) Germania
+B) Grecia
+C) Shanghai
+D) Australia	Correct:Shanghai
+ Domanda: Quale città è gemellata con San Pietroburgo?
+A) Australia
+B) Germania
+C) Torino
+D) Grecia	Correct:Torino
+ Domanda: Quali paesi confina con la Serbia?
+A) Taiwan
+B) Germania
+C) Australia
+D) Macedonia del Nord	Correct:Macedonia del Nord
+ Domanda: Quale paese ha una relazione diplomatica con la Serbia?
+A) Afghanistan
+B) Malaysia
+C) Serbia
+D) Canada	Correct:Afghanistan
+ Domanda: Quale città è gemellata con Shanghai?
+A) Pakistan
+B) Anversa
+C) Giappone
+D) Australia	Correct:Anversa
+ Domanda: Quale paese ha una relazione diplomatica con Singapore?
+A) Italia
+B) Malaysia
+C) Serbia
+D) Armenia	Correct:Armenia
+ Domanda: Quale paese ha una relazione diplomatica con la Somalia?
+A) Russia
+B) Cina
+C) Malaysia
+D) Australia	Correct:Cina
+ Domanda: Quale paese ha la relazione diplomatica più stretta con gli Stati Uniti?
+A) Messico
+B) Argentina
+C) Stati Uniti d'America
+D) Russia	Correct:Argentina
+ Domanda: Quale paese ha la relazione diplomatica più stretta con gli Stati Uniti?
+A) Messico
+B) Russia
+C) Senegal
+D) Stati Uniti d'America	Correct:Senegal
+ Domanda: Quale è la capitale degli Stati Uniti?
+A) Georgia
+B) Germania
+C) Australia
+D) Taiwan	Correct:Georgia
+ Domanda: Qual è la lingua ufficiale della Svizzera?
+A) Russia
+B) Australia
+C) francese
+D) Stati Uniti d'America	Correct:francese
+ Domanda: Quale paese ha una relazione diplomatica con Tagikistan?
+A) Australia
+B) Taiwan
+C) Messico
+D) Germania	Correct:Taiwan
+ Domanda: Quale paese confina con Taiwan?
+A) Germania
+B) Russia
+C) Giappone
+D) Taiwan	Correct:Giappone
+ Domanda: Quale paese ha una relazione diplomatica con Taiwan?
+A) Ungheria
+B) Taiwan
+C) Giappone
+D) Cina	Correct:Ungheria
+ Domanda: Quale paese ha una relazione diplomatica con Tanzania?
+A) Israele
+B) Serbia
+C) Italia
+D) Australia	Correct:Australia
+ Domanda: Quale paese ha una relazione diplomatica con Tanzania?
+A) Italia
+B) Corea del Nord
+C) Israele
+D) Serbia	Correct:Corea del Nord
+ Domanda: Quale paese ha una relazione diplomatica con la Turchia?
+A) Pakistan
+B) Turchia
+C) Giappone
+D) Grecia	Correct:Pakistan
+ Domanda: Quale paese ha una relazione diplomatica con la Turchia?
+A) Grecia
+B) Stati Uniti d'America
+C) Turchia
+D) Giappone	Correct:Stati Uniti d'America
+ Domanda: Quale paese ha avuto una relazione diplomatica con l'Ucraina?
+A) Russia
+B) Ucraina
+C) Egitto
+D) Spagna	Correct:Egitto
+ Domanda: Quale paese confina con l'Ungheria?
+A) Russia
+B) Slovacchia
+C) Germania
+D) Australia	Correct:Slovacchia
+ Domanda: Quale paese ha una relazione diplomatica con l'Ungheria?
+A) Indonesia
+B) Russia
+C) Australia
+D) Cina	Correct:Russia
+ Domanda: Dove è stato fondato il United States Marine Corps?
+A) Indonesia
+B) Russia
+C) Filadelfia
+D) Taiwan	Correct:Filadelfia
+ Domanda: Quale paese ha una relazione diplomatica con il Vietnam?
+A) Turchia
+B) Cina
+C) Ucraina
+D) Canada	Correct:Ucraina
+ Domanda: Quale paese è Virginia?
+A) Iran
+B) Danimarca
+C) Indonesia
+D) Stati Uniti d'America	Correct:Stati Uniti d'America
+ Domanda: Quale stato confina con Virginia?
+A) Turchia
+B) Germania
+C) Taiwan
+D) Carolina del Nord	Correct:Carolina del Nord
+ Domanda: Quale città è gemellata con Zagabria?
+A) Australia
+B) Messico
+C) Stati Uniti d'America
+<<<<<<< HEAD
+D) Cracovia	Correct:Cracovia
+=======
+D) Cracovia	Correct:Cracovia
+>>>>>>> main
