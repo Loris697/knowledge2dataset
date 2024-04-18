@@ -1,101 +1,101 @@
 ,Object,Relationship,Correct,Answer_1,Answer_2,Answer_3,Answer_4
-0,Adelaide,unità amministrativa in cui è situato,Australia Meridionale,Taiwan,Australia Meridionale,Mosca,Messico
-1,Albania,relazione diplomatica,Francia,Grecia,Francia,Canada,Brasile
-2,Angola,relazione diplomatica,Australia,Australia,Canada,Italia,Regno Unito
-3,Australia,relazione diplomatica,Birmania,Indonesia,Australia,Birmania,Georgia
-4,Australia Meridionale,Paese,Australia,Grecia,Danimarca,Austria,Australia
-5,Baden-Württemberg,confina con,Baviera,Grecia,Italia,Malaysia,Baviera
-6,Bangladesh,relazione diplomatica,Cuba,Cuba,Israele,India,Bangladesh
-7,Belgio,relazione diplomatica,Canada,Germania,Brasile,Bangladesh,Canada
-8,Belgrado,Paese,Repubblica Socialista Federale di Jugoslavia,Repubblica Socialista Federale di Jugoslavia,Grecia,Australia,Germania
-9,Berna,lingua ufficiale,tedesco,Pakistan,Francia,Giappone,tedesco
-10,Bielorussia,relazione diplomatica,Argentina,Canada,Messico,Argentina,Australia
-11,Bielorussia,relazione diplomatica,Cuba,Canada,Australia,Cuba,Messico
-12,Bielorussia,relazione diplomatica,Paesi Bassi,Australia,Paesi Bassi,Messico,Canada
-13,Bologna,Paese,Italia,Malaysia,Italia,Australia,Indonesia
-14,Brasile,Paese,Brasile,Germania,Taiwan,Brasile,Australia
-15,Brasile,relazione diplomatica,Repubblica Ceca,Brasile,Uruguay,Francia,Repubblica Ceca
-16,Budapest,città gemellata,Bangkok,Germania,Bangkok,Regno Unito,Stati Uniti d'America
-17,Burkina Faso,Paese,Burkina Faso,Grecia,Serbia,Burkina Faso,Australia
-18,California,sottodivisioni amministrative,San Francisco,Russia,San Francisco,Germania,Francia
-19,Canada,relazione diplomatica,Namibia,Stati Uniti d'America,Serbia,Namibia,Canada
-20,Cecoslovacchia,confina con,Germania Est,Canada,Germania Est,Francia,Danimarca
-21,Cecoslovacchia,sostituito da,Slovacchia,Danimarca,Slovacchia,India,Australia
-22,Cile,relazione diplomatica,El Salvador,El Salvador,Ucraina,Canada,Giappone
-23,Cina,relazione diplomatica,Croazia,Taiwan,Russia,Croazia,Cina
-24,Cina,relazione diplomatica,Nigeria,Nigeria,Cina,Russia,Taiwan
-25,Corea del Nord,relazione diplomatica,Vietnam,Stati Uniti d'America,Grecia,Russia,Vietnam
-26,Costa Rica,relazione diplomatica,Uruguay,India,Turchia,Uruguay,Cina
-27,Croazia,relazione diplomatica,Messico,Malaysia,Russia,Francia,Messico
-28,Croazia,relazione diplomatica,Taiwan,Russia,Taiwan,Francia,Malaysia
-29,Cuba,relazione diplomatica,Germania,Danimarca,Stati Uniti d'America,Australia,Germania
-30,Danimarca,capitale,Copenaghen,Stati Uniti d'America,Germania,Copenaghen,Taiwan
-31,Ecuador,confina con,Perù,Malaysia,Australia,Ucraina,Perù
-32,Emirati Arabi Uniti,continente,Asia,Taiwan,Asia,Stati Uniti d'America,Germania
-33,Estonia,relazione diplomatica,Australia,Australia,Pakistan,Cina,Russia
-34,Estonia,relazione diplomatica,Messico,Pakistan,Cina,Messico,Russia
-35,Francia,confina con,Regno dei Paesi Bassi,Regno dei Paesi Bassi,Russia,Taiwan,Danimarca
-36,Francia,relazione diplomatica,Iraq,Italia,Iraq,Germania,Cina
-37,Francia,relazione diplomatica,Trinidad e Tobago,Cina,Italia,Germania,Trinidad e Tobago
-38,Francisco,considerato essere uguale a,Frank,Germania,Frank,Messico,Uruguay
-39,Germania,relazione diplomatica,Togo,Danimarca,Francia,Togo,Germania
-40,Grecia,relazione diplomatica,Australia,Uruguay,Turchia,Australia,Grecia
-41,Grecia,relazione diplomatica,Brasile,Turchia,Grecia,Uruguay,Brasile
-42,Guatemala,confina con,Messico,Messico,Bangladesh,Taiwan,Giappone
-43,Houston,città gemellata,Lipsia,Canada,Italia,Lipsia,Spagna
-44,Illinois,confina con,Iowa,Iowa,Germania,Russia,Taiwan
-45,India,relazione diplomatica,Trinidad e Tobago,Trinidad e Tobago,Bangladesh,Cina,India
-46,Israele,relazione diplomatica,Cina,Danimarca,Taiwan,Bangladesh,Cina
-47,Jean,considerato essere uguale a,Hans,Australia,Danimarca,Messico,Hans
-48,Jean,considerato essere uguale a,Johannes,Messico,Danimarca,Australia,Johannes
-49,Juan,considerato essere uguale a,Jack,Jack,Taiwan,Cina,Germania
-50,Jugoslavia,continente,Europa,Bangladesh,Russia,Italia,Europa
-51,Kazakistan,relazione diplomatica,Pakistan,Australia,Pakistan,Russia,Italia
-52,Libia,relazione diplomatica,Russia,Russia,Australia,Indonesia,Canada
-53,Macedonia del Nord,relazione diplomatica,Bosnia ed Erzegovina,Cina,Bosnia ed Erzegovina,Taiwan,Germania
-54,Malaysia,relazione diplomatica,Finlandia,Finlandia,Malaysia,Serbia,Italia
-55,Mali,confina con,Costa d'Avorio,Costa d'Avorio,Canada,Germania,Danimarca
-56,Mali,relazione diplomatica,Canada,Australia,Canada,Danimarca,Brasile
-57,Messico,relazione diplomatica,Germania,Messico,Iran,Germania,Stati Uniti d'America
-58,Moldavia,relazione diplomatica,Germania,Australia,Germania,Bangladesh,Brasile
-59,Norvegia,relazione diplomatica,Repubblica Democratica del Congo,Russia,Danimarca,Bangladesh,Repubblica Democratica del Congo
-60,Norvegia,relazione diplomatica,Ucraina,Bangladesh,Russia,Danimarca,Ucraina
-61,Nuova Delhi,città gemellata,Chicago,Messico,Germania,Spagna,Chicago
-62,Oklahoma,confina con,Kansas,Malaysia,Regno Unito,Kansas,Serbia
-63,Pakistan,relazione diplomatica,Cuba,India,Cina,Cuba,Pakistan
-64,Pakistan,relazione diplomatica,Regno Unito,Pakistan,India,Cina,Regno Unito
-65,Polonia,confina con,Cecoslovacchia,Australia,Taiwan,Cecoslovacchia,Francia
-66,Regno Unito,confina con,Venezuela,Germania,Stati Uniti d'America,Venezuela,Grecia
-67,Repubblica Socialista Federale di Jugoslavia,sostituito da,Croazia,Giappone,Croazia,Germania,Danimarca
-68,Riga,città gemellata,Tallinn,Tallinn,Canada,Indonesia,Australia
-69,Rio de Janeiro,città gemellata,Atene,Taiwan,Germania,Danimarca,Atene
-70,Sacramento,città gemellata,Manila,Manila,Germania,Messico,Taiwan
-71,Saint Louis,città gemellata,Lione,Turchia,Francia,Germania,Lione
-72,San Paolo,città gemellata,Lisbona,Lisbona,Russia,Grecia,Messico
-73,San Pietroburgo,città gemellata,Johannesburg,Johannesburg,Germania,Grecia,Australia
-74,San Pietroburgo,città gemellata,Shanghai,Germania,Grecia,Shanghai,Australia
-75,San Pietroburgo,città gemellata,Torino,Australia,Germania,Torino,Grecia
-76,Serbia,confina con,Macedonia del Nord,Taiwan,Germania,Australia,Macedonia del Nord
-77,Serbia,relazione diplomatica,Afghanistan,Afghanistan,Malaysia,Serbia,Canada
-78,Shanghai,città gemellata,Anversa,Pakistan,Anversa,Giappone,Australia
-79,Singapore,relazione diplomatica,Armenia,Italia,Malaysia,Serbia,Armenia
-80,Somalia,relazione diplomatica,Cina,Russia,Cina,Malaysia,Australia
-81,Stati Uniti d'America,relazione diplomatica,Argentina,Messico,Argentina,Stati Uniti d'America,Russia
-82,Stati Uniti d'America,relazione diplomatica,Senegal,Messico,Russia,Senegal,Stati Uniti d'America
-83,Stati Uniti d'America,sottodivisioni amministrative,Georgia,Georgia,Germania,Australia,Taiwan
-84,Svizzera,lingua ufficiale,francese,Russia,Australia,francese,Stati Uniti d'America
-85,Tagikistan,relazione diplomatica,Taiwan,Australia,Taiwan,Messico,Germania
-86,Taiwan,confina con,Giappone,Germania,Russia,Giappone,Taiwan
-87,Taiwan,relazione diplomatica,Ungheria,Ungheria,Taiwan,Giappone,Cina
-88,Tanzania,relazione diplomatica,Australia,Israele,Serbia,Italia,Australia
-89,Tanzania,relazione diplomatica,Corea del Nord,Italia,Corea del Nord,Israele,Serbia
-90,Turchia,relazione diplomatica,Pakistan,Pakistan,Turchia,Giappone,Grecia
-91,Turchia,relazione diplomatica,Stati Uniti d'America,Grecia,Stati Uniti d'America,Turchia,Giappone
-92,Ucraina,relazione diplomatica,Egitto,Russia,Ucraina,Egitto,Spagna
-93,Ungheria,confina con,Slovacchia,Russia,Slovacchia,Germania,Australia
-94,Ungheria,relazione diplomatica,Russia,Indonesia,Russia,Australia,Cina
-95,United States Marine Corps,luogo di fondazione,Filadelfia,Indonesia,Russia,Filadelfia,Taiwan
-96,Vietnam,relazione diplomatica,Ucraina,Turchia,Cina,Ucraina,Canada
-97,Virginia,Paese,Stati Uniti d'America,Iran,Danimarca,Indonesia,Stati Uniti d'America
-98,Virginia,confina con,Carolina del Nord,Turchia,Germania,Taiwan,Carolina del Nord
-99,Zagabria,città gemellata,Cracovia,Australia,Messico,Stati Uniti d'America,Cracovia
+0,Adelaide,unità amministrativa in cui è situato,Australia Meridionale,Illinois,Australia Meridionale,Nebraska,Colorado
+1,Albania,relazione diplomatica,Francia,Messico,Francia,Canada,India
+2,Angola,relazione diplomatica,Australia,Australia,Bangladesh,Canada,Danimarca
+3,Australia,relazione diplomatica,Birmania,Ungheria,Kazakistan,Birmania,Nuova Zelanda
+4,Australia Meridionale,Paese,Australia,Taiwan,Francia,Stati Uniti d'America,Australia
+5,Baden-Württemberg,confina con,Baviera,Manitoba,Wisconsin,Florida,Baviera
+6,Bangladesh,relazione diplomatica,Cuba,Cuba,Romania,Israele,Egitto
+7,Belgio,relazione diplomatica,Canada,Germania,Israele,Bangladesh,Canada
+8,Belgrado,Paese,Repubblica Socialista Federale di Jugoslavia,Repubblica Socialista Federale di Jugoslavia,Mosca,Impero russo,Unione Sovietica
+9,Berna,lingua ufficiale,tedesco,Australia,Russia,Canada,tedesco
+10,Bielorussia,relazione diplomatica,Argentina,Australia,Messico,Argentina,Russia
+11,Bielorussia,relazione diplomatica,Cuba,Australia,Russia,Cuba,Messico
+12,Bielorussia,relazione diplomatica,Paesi Bassi,Russia,Paesi Bassi,Messico,Australia
+13,Bologna,Paese,Italia,Stati Uniti d'America,Italia,Canada,Francia
+14,Brasile,Paese,Brasile,Victoria,Doubs,Brasile,Partito Conservatore
+15,Brasile,relazione diplomatica,Repubblica Ceca,Uruguay,Arabia Saudita,Francia,Repubblica Ceca
+16,Budapest,città gemellata,Bangkok,San Pietroburgo,Bangkok,Buenos Aires,Mosca
+17,Burkina Faso,Paese,Burkina Faso,Costa d'Avorio,Togo,Burkina Faso,Benin
+18,California,sottodivisioni amministrative,San Francisco,Taiwan,San Francisco,Russia,Cina
+19,Canada,relazione diplomatica,Namibia,Serbia,Regno Unito,Namibia,Canada
+20,Cecoslovacchia,confina con,Germania Est,Francia,Germania Est,Italia,Cina
+21,Cecoslovacchia,sostituito da,Slovacchia,Polonia,Slovacchia,Spagna,Ungheria
+22,Cile,relazione diplomatica,El Salvador,El Salvador,Giappone,Canada,Iran
+23,Cina,relazione diplomatica,Croazia,Kazakistan,Ungheria,Croazia,Vietnam
+24,Cina,relazione diplomatica,Nigeria,Nigeria,Vietnam,Ungheria,Kazakistan
+25,Corea del Nord,relazione diplomatica,Vietnam,Messico,Israele,Grecia,Vietnam
+26,Costa Rica,relazione diplomatica,Uruguay,Cina,India,Uruguay,Bangladesh
+27,Croazia,relazione diplomatica,Messico,India,Russia,Canada,Messico
+28,Croazia,relazione diplomatica,Taiwan,Russia,Taiwan,Canada,India
+29,Cuba,relazione diplomatica,Germania,Australia,Israele,Stati Uniti d'America,Germania
+30,Danimarca,capitale,Copenaghen,Madrid,Atene,Copenaghen,Mosca
+31,Ecuador,confina con,Perù,Serbia,Russia,Israele,Perù
+32,Emirati Arabi Uniti,continente,Asia,Europa,Asia,Vilnius,Rio de Janeiro
+33,Estonia,relazione diplomatica,Australia,Australia,Canada,Cina,Russia
+34,Estonia,relazione diplomatica,Messico,Canada,Cina,Messico,Russia
+35,Francia,confina con,Regno dei Paesi Bassi,Regno dei Paesi Bassi,Stati Uniti d'America,Francia,Russia
+36,Francia,relazione diplomatica,Iraq,Cina,Iraq,Brasile,Spagna
+37,Francia,relazione diplomatica,Trinidad e Tobago,Spagna,Cina,Brasile,Trinidad e Tobago
+38,Francisco,considerato essere uguale a,Frank,Nevada,Frank,Nuovo Messico,Francisco
+39,Germania,relazione diplomatica,Togo,Lituania,Paesi Bassi,Togo,Polonia
+40,Grecia,relazione diplomatica,Australia,Turchia,Grecia,Australia,Egitto
+41,Grecia,relazione diplomatica,Brasile,Grecia,Egitto,Turchia,Brasile
+42,Guatemala,confina con,Messico,Messico,Israele,Serbia,Grecia
+43,Houston,città gemellata,Lipsia,Pechino,Buenos Aires,Lipsia,San Pietroburgo
+44,Illinois,confina con,Iowa,Iowa,Nebraska,Illinois,Minnesota
+45,India,relazione diplomatica,Trinidad e Tobago,Trinidad e Tobago,Bulgaria,Ungheria,Argentina
+46,Israele,relazione diplomatica,Cina,Bangladesh,Spagna,Bulgaria,Cina
+47,Jean,considerato essere uguale a,Hans,Minnesota,Jean,Georgia,Hans
+48,Jean,considerato essere uguale a,Johannes,Georgia,Jean,Minnesota,Johannes
+49,Juan,considerato essere uguale a,Jack,Jack,Madrid,Juan,Tel Aviv
+50,Jugoslavia,continente,Europa,Rio de Janeiro,spagnolo,Seul,Europa
+51,Kazakistan,relazione diplomatica,Pakistan,Cina,Pakistan,Russia,Australia
+52,Libia,relazione diplomatica,Russia,Russia,Australia,Canada,Messico
+53,Macedonia del Nord,relazione diplomatica,Bosnia ed Erzegovina,Cina,Bosnia ed Erzegovina,Germania,Taiwan
+54,Malaysia,relazione diplomatica,Finlandia,Finlandia,Serbia,Armenia,Polonia
+55,Mali,confina con,Costa d'Avorio,Costa d'Avorio,Turchia,Vietnam,Serbia
+56,Mali,relazione diplomatica,Canada,Australia,Canada,Danimarca,Messico
+57,Messico,relazione diplomatica,Germania,Portogallo,Iran,Germania,Iraq
+58,Moldavia,relazione diplomatica,Germania,Bangladesh,Germania,Messico,Cina
+59,Norvegia,relazione diplomatica,Repubblica Democratica del Congo,Bangladesh,Russia,India,Repubblica Democratica del Congo
+60,Norvegia,relazione diplomatica,Ucraina,India,Bangladesh,Russia,Ucraina
+61,Nuova Delhi,città gemellata,Chicago,San Pietroburgo,Atene,Pechino,Chicago
+62,Oklahoma,confina con,Kansas,Oklahoma,Nebraska,Kansas,Tennessee
+63,Pakistan,relazione diplomatica,Cuba,Corea del Sud,Israele,Cuba,Cina
+64,Pakistan,relazione diplomatica,Regno Unito,Cina,Corea del Sud,Israele,Regno Unito
+65,Polonia,confina con,Cecoslovacchia,Canada,Cina,Cecoslovacchia,Israele
+66,Regno Unito,confina con,Venezuela,Russia,Stati Uniti d'America,Venezuela,Germania
+67,Repubblica Socialista Federale di Jugoslavia,sostituito da,Croazia,Namibia,Croazia,Armenia,Vietnam
+68,Riga,città gemellata,Tallinn,Tallinn,Città del Messico,Atene,Buenos Aires
+69,Rio de Janeiro,città gemellata,Atene,Mosca,Budapest,San Paolo,Atene
+70,Sacramento,città gemellata,Manila,Manila,San Pietroburgo,Istanbul,Barcellona
+71,Saint Louis,città gemellata,Lione,Hannover,Lipsia,Francoforte sul Meno,Lione
+72,San Paolo,città gemellata,Lisbona,Lisbona,San Pietroburgo,Atene,Madrid
+73,San Pietroburgo,città gemellata,Johannesburg,Johannesburg,Atene,Mosca,San Pietroburgo
+74,San Pietroburgo,città gemellata,Shanghai,Atene,Mosca,Shanghai,San Pietroburgo
+75,San Pietroburgo,città gemellata,Torino,San Pietroburgo,Atene,Torino,Mosca
+76,Serbia,confina con,Macedonia del Nord,Canada,Serbia,Russia,Macedonia del Nord
+77,Serbia,relazione diplomatica,Afghanistan,Afghanistan,Malaysia,Canada,Bulgaria
+78,Shanghai,città gemellata,Anversa,Atene,Anversa,Mosca,Kiev
+79,Singapore,relazione diplomatica,Armenia,Serbia,Danimarca,Grecia,Armenia
+80,Somalia,relazione diplomatica,Cina,Messico,Cina,Russia,Canada
+81,Stati Uniti d'America,relazione diplomatica,Argentina,Canada,Argentina,Spagna,Egitto
+82,Stati Uniti d'America,relazione diplomatica,Senegal,Canada,Egitto,Senegal,Spagna
+83,Stati Uniti d'America,sottodivisioni amministrative,Georgia,Georgia,Manitoba,Australia Meridionale,Ontario
+84,Svizzera,lingua ufficiale,francese,coreano,portoghese,francese,spagnolo
+85,Tagikistan,relazione diplomatica,Taiwan,Germania,Taiwan,Messico,Cina
+86,Taiwan,confina con,Giappone,Russia,Taiwan,Giappone,Stati Uniti d'America
+87,Taiwan,relazione diplomatica,Ungheria,Ungheria,Corea del Sud,Filippine,Giappone
+88,Tanzania,relazione diplomatica,Australia,Israele,Pakistan,Canada,Australia
+89,Tanzania,relazione diplomatica,Corea del Nord,Canada,Corea del Nord,Israele,Pakistan
+90,Turchia,relazione diplomatica,Pakistan,Pakistan,Corea del Sud,Giappone,Grecia
+91,Turchia,relazione diplomatica,Stati Uniti d'America,Grecia,Stati Uniti d'America,Corea del Sud,Giappone
+92,Ucraina,relazione diplomatica,Egitto,Russia,Spagna,Egitto,Uruguay
+93,Ungheria,confina con,Slovacchia,Canada,Slovacchia,Russia,Germania
+94,Ungheria,relazione diplomatica,Russia,India,Russia,Cina,Australia
+95,United States Marine Corps,luogo di fondazione,Filadelfia,San Pietroburgo,New York,Filadelfia,Vilnius
+96,Vietnam,relazione diplomatica,Ucraina,Cina,Canada,Ucraina,Israele
+97,Virginia,Paese,Stati Uniti d'America,Virginia,Francia,Canada,Stati Uniti d'America
+98,Virginia,confina con,Carolina del Nord,Missouri,Virginia,Illinois,Carolina del Nord
+99,Zagabria,città gemellata,Cracovia,Kiev,Mosca,Atene,Cracovia
