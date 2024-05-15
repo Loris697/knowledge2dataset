@@ -1,0 +1,336 @@
+ID,name
+P1001,applies to jurisdiction
+P101,field of work
+P1018,language regulatory body
+P102,member of political party
+P1027,conferred by
+P103,native language
+P1038,relative
+P1040,film editor
+P1049,worshipped by
+P1050,medical condition
+P1056,product or material produced or service provided
+P106,occupation
+P1064,track gauge
+P1066,student of
+P1071,location of creation
+P1072,readable file format
+P1073,writable file format
+P1075,rector
+P108,employer
+P1080,from narrative universe
+P110,illustrator
+P112,founded by
+P113,airline hub
+P114,airline alliance
+P1142,political ideology
+P118,league
+P119,place of burial
+P1192,connecting service
+P1196,manner of death
+P121,item operated
+P122,basic form of government
+P123,publisher
+P126,maintained by
+P1269,facet of
+P127,owned by
+P1290,godparent
+P1299,depicted by
+P1302,primary destinations
+P1303,instrument
+P1308,officeholder
+P131,located in the administrative territorial entity
+P1313,office held by head of government
+P1336,territory claimed by
+P134,Label not found
+P1343,described by source
+P1344,participant in
+P1346,winner
+P135,movement
+P136,genre
+P1365,replaces
+P1366,replaced by
+P137,operator
+P1376,capital of
+P138,named after
+P1383,contains settlement
+P1387,political alignment
+P1399,convicted of
+P140,religion or worldview
+P1408,licensed to broadcast to
+P1411,nominated for
+P1412,"languages spoken, written or signed"
+P1414,GUI toolkit or framework
+P1416,affiliation
+P1427,start point
+P1431,executive producer
+P1434,takes place in fictional universe
+P1435,heritage designation
+P144,based on
+P1441,present in work
+P1444,destination point
+P1445,fictional universe described in
+P1454,legal form
+P149,architectural style
+P150,contains the administrative territorial entity
+P1532,country for sport
+P1533,family name identical to this given name
+P1542,has effect
+P1547,depends on software
+P155,follows
+P156,followed by
+P1560,given name version for other gender
+P1576,lifestyle
+P1589,lowest point
+P159,headquarters location
+P1595,charge
+P16,transport network
+P161,cast member
+P162,producer
+P1654,wing configuration
+P166,award received
+P17,country
+P170,creator
+P1716,brand
+P172,ethnic group
+P175,performer
+P176,manufacturer
+P178,developer
+P179,part of the series
+P180,depicts
+P1809,choreographer
+P1830,owner of
+P184,doctoral advisor
+P185,doctoral student
+P186,made from material
+P1875,represented by
+P1877,after a work by
+P1884,hair color
+P1889,different from
+P189,location of discovery
+P1891,signatory
+P19,place of birth
+P190,twinned administrative body
+P1906,office held by head of state
+P1923,participating team
+P194,legislative body
+P195,collection
+P1950,second family name in Spanish name
+P1962,Label not found
+P199,business division
+P1990,species kept
+P1995,health specialty
+P20,place of death
+P205,basin country
+P206,located in or next to body of water
+P2061,aspect ratio (W:H)
+P2079,fabrication method
+P208,executive body
+P2094,competition class
+P21,sex or gender
+P2175,medical condition treated
+P2176,drug or therapy used for treatment
+P2184,history of topic
+P22,father
+P2238,official symbol
+P2283,uses
+P2321,general classification of race participants
+P2348,time period
+P2358,Roman praenomen
+P237,coat of arms
+P2388,office held by head of the organization
+P2389,organization directed by the office or position
+P2408,set in period
+P241,military branch
+P2416,sports discipline competed in
+P2438,narrator
+P2439,Label not found
+P248,stated in
+P2499,league level above
+P25,mother
+P2500,league level below
+P2512,has spin-off
+P2515,costume designer
+P2522,victory
+P2541,operating area
+P2554,production designer
+P2563,superhuman feature or ability
+P2564,Köppen climate classification
+P2578,is the study of
+P2596,culture
+P26,spouse
+P263,official residence
+P2632,place of detention
+P2633,geography of topic
+P264,record label
+P2650,interested in
+P2652,partnership with
+P2670,has part(s) of the class
+P27,country of citizenship
+P272,production company
+P275,copyright license
+P276,location
+P277,programmed in
+P2789,connects with
+P279,subclass of
+P282,writing system
+P2852,emergency phone number
+P2853,electrical plug type
+P2860,cites work
+P2868,subject has role
+P287,designed by
+P2925,domain of saint or deity
+P2936,language used
+P2962,title of chess person
+P2989,has grammatical case
+P2992,software quality assurance
+P30,continent
+P306,operating system
+P3085,qualifies for event
+P3092,film crew member
+P31,instance of
+P3174,art director
+P3195,league points system
+P3275,storyboard artist
+P3300,musical conductor
+P3301,broadcast by
+P3373,sibling
+P344,director of photography
+P3448,stepparent
+P3450,sports season of league or competition
+P3461,designated as terrorist by
+P3494,points classification
+P3497,teams classification by time
+P35,head of state
+P355,has subsidiary
+P36,capital
+P360,is a list of
+P3602,candidacy in election
+P361,part of
+P364,original language of film or TV show
+P366,has use
+P37,official language
+P3701,incarnation of
+P371,presenter
+P38,currency
+P3828,wears
+P39,position held
+P3919,contributed to creative work
+P397,parent astronomical body
+P398,child astronomical body
+P40,child
+P400,platform
+P403,mouth of the watercourse
+P404,game mode
+P407,language of work or name
+P408,software engine
+P410,military rank
+P411,canonization status
+P412,voice type
+P413,position played on team / speciality
+P4132,linguistic typology
+P414,stock exchange
+P417,patron saint
+P421,located in time zone
+P4312,camera setup
+P437,distribution format
+P449,original broadcaster
+P451,unmarried partner
+P452,industry
+P460,said to be the same as
+P461,opposite of
+P462,color
+P463,member of
+P466,occupant
+P469,lake on watercourse
+P47,shares border with
+P479,input device
+P485,archives at
+P488,chairperson
+P495,country of origin
+P50,author
+P500,exclave of
+P501,enclave within
+P509,cause of death
+P511,honorific prefix
+P512,academic degree
+P520,armament
+P521,scheduled service destination
+P522,type of orbit
+P527,has part(s)
+P53,family
+P530,diplomatic relation
+P533,target
+P54,member of sports team
+P541,office contested
+P542,officially opened by
+P551,residence
+P553,website account on
+P559,terminus
+P57,director
+P58,screenwriter
+P59,constellation
+P598,commander of (DEPRECATED)
+P6,head of government
+P607,conflict
+P608,exhibition history
+P609,terminus location
+P61,discoverer or inventor
+P610,highest point
+P611,religious order
+P618,source of energy
+P636,route of administration
+P641,sport
+P647,drafted by
+P66,ancestral home
+P664,organizer
+P674,characters
+P676,lyrics by
+P689,afflicts
+P69,educated at
+P706,located in/on physical feature
+P708,diocese
+P710,participant
+P725,voice actor
+P726,candidate
+P734,family name
+P735,given name
+P737,influenced by
+P739,ammunition
+P740,location of formation
+P747,has edition or translation
+P749,parent organization
+P750,distributed by
+P767,contributor to the creative work or subject
+P769,significant drug interaction
+P780,symptoms and signs
+P793,significant event
+P797,authority
+P800,notable work
+P802,student
+P807,separated from
+P81,connecting line
+P822,mascot
+P825,dedicated to
+P828,has cause
+P832,public holiday
+P840,narrative location
+P841,feast day
+P85,anthem
+P859,sponsor
+P86,composer
+P88,commissioned by
+P885,origin of the watercourse
+P91,sexual orientation
+P915,filming location
+P92,main regulatory text
+P921,main subject
+P927,anatomical location
+P930,type of electrification
+P931,place served by transport hub
+P937,work location
+P941,inspired by
+P943,programmer
+P945,allegiance
+P97,noble title
+P974,tributary
